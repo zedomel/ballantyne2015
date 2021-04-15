@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/ballantyne2015.svg)](https://travis-ci.com/ballantyne2015) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:ballantyne2015)](http://globalbioticinteractions.org/?accordingTo=globi:ballantyne2015)
+[![Build Status](https://travis-ci.com/zedomel/ballantyne2015.svg)](https://travis-ci.com/zedomel/ballantyne2015) [![GloBI](https://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:zedomel/ballantyne2015)](https://globalbioticinteractions.org/?accordingTo=globi:zedomel/ballantyne2015)
 
 Configuration to help Global Biotic Interactions (GloBI, https://globalbioticinteractions.org) index: 
 
