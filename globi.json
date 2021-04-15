@@ -10,6 +10,7 @@
     "rdfs:comment" : [ "inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/" ],
     "url" : "https://datadryad.org/stash/downloads/file_stream/41251",
     "dcterms:bibliographicCitation" : "Ballantyne, Gavin; Baldock, Katherine C. R.; Willmer, Pat G. (2015), Data from: Constructing more informative plant-pollinator networks: visitation and pollen deposition networks in a heathland plant community, Dryad, Dataset, https://doi.org/10.5061/dryad.17pp3",
+    "doi": "10.5061/dryad.17pp3",
     "delimiter" : ",",
     "headerRowCount" : 1,
     "null" : [ "" ],
@@ -33,7 +34,7 @@
         "titles" : "time_of_visit",
         "datatype" : "string"
       }, {
-        "name" : "sourceTaxonName",
+        "name" : "sourceTaxonSpeciesName",
         "titles" : "plant_species",
         "datatype" : "string"
       }, {
